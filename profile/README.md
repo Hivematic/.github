@@ -1,6 +1,11 @@
 <div align="center">
 
-<a href="https://hivematic.ai/en/"><img src="https://hivematic.ai/images/logos/logo_light.png" alt="Hivematic" height="56"></a>
+<a href="https://hivematic.ai/en/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://hivematic.ai/images/logos/logo_dark.png">
+    <img src="https://hivematic.ai/images/logos/logo_light.png" alt="Hivematic" height="56">
+  </picture>
+</a>
 
 ### AI agents for the enterprise — built in Europe
 
